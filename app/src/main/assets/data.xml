@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<empresas>
+    <empresa>
+        <empresaId>1</empresaId>
+        <empresaRazonSocial>item1</empresaRazonSocial>
+        <empresaRuc>item1</empresaRuc>
+    </empresa>
+    <empresa>
+        <empresaId>2</empresaId>
+        <empresaRazonSocial>item1</empresaRazonSocial>
+        <empresaRuc>item1</empresaRuc>
+    </empresa>
+    <empresa>
+        <empresaId>3</empresaId>
+        <empresaRazonSocial>item1</empresaRazonSocial>
+        <empresaRuc>item1</empresaRuc>
+    </empresa>
+</empresas>
